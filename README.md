@@ -1,1 +1,1 @@
-# C
+Scholarship calculator
